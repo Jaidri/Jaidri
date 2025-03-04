@@ -15,7 +15,7 @@ I am a computer engineering student, currently halfway through my degree. I am e
 
 - 🌱 I’m currently learning Web Development and other programming languages
 
-- 📫 How to reach me ****
+- 📫 How to reach me **rodriguezrogiguezjuancho@gmail.com**
 
 - ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
 
