@@ -66,7 +66,7 @@ I am a computer engineering student, currently halfway through my degree. I am e
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </span>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+
 
 <h3>Statistical Data</h3>
 <p><img align="center"
